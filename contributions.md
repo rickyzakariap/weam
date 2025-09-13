@@ -7,7 +7,7 @@
 ### 👥 Members
 | Name | GitHub Profile |
 |------|----------------|
-| Member 1 | [@username](https://github.com/username) |
+| Member 1 | [@UmeshAhir21](https://github.com/weam-ai/t1) |
 | Member 2 | [@username](https://github.com/username) |
 | Member 3 | [@username](https://github.com/username) |
 | Member 3 | [@username](https://github.com/username) |
